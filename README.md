@@ -3,4 +3,4 @@
 <h2 align="center">Hi, I'm <a href="https://shockerli.net" target="_blank">Liuxiaobo</a> 🎉</h1>
 
 
-- 📝 [https://shockerli.net](http://blogs.liuxiaobo.net.cn/)
+- [http://blogs.liuxiaobo.net.cn](http://blogs.liuxiaobo.net.cn)

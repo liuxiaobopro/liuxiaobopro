@@ -3,4 +3,3 @@
 <h2 align="center">Hi, I'm <a href="#" target="_blank">Liuxiaobo</a> 🎉</h1>
 
 
-- [http://blogs.liuxiaobo.net.cn](http://blogs.liuxiaobo.net.cn)
